@@ -1,6 +1,6 @@
 {
-  "name": "winston-logstash",
-  "version": "0.4.0",
+  "name": "@bounceinsights/winston-logstash",
+  "version": "1.0.0",
   "description": "A Logstash transport for winston",
   "main": "./lib/winston-logstash",
   "homepage": "https://github.com/jaakkos/winston-logstash",
@@ -10,10 +10,7 @@
   "engines": {
     "node": ">=4"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jaakkos/winston-logstash.git"
-  },
+  "repository": "bounceinsights/dashboard-core",
   "peerDependencies": {
     "winston": ">=0.7.3"
   },
